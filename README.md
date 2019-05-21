@@ -1,5 +1,5 @@
 # Swikly Link Documentation
-This is Swikly's official documentation on how to generate and implement Swikly's transaction link.  
+This is [Swikly](https://www.swikly.com)'s official documentation on how to generate and implement Swikly's transaction link.  
 Swikly enables you to generate a transaction link for any transaction request type:
 
  - Deposit, down payment or payment.
@@ -13,10 +13,10 @@ You must have an active Swikly account and a secret key to create a custom Swikl
 
 | Environment  | Url  |
 |---|---|
-| `Sanbox` | [https://sandbox.swikly.com](https://www.sandbox.swikly.com)  |
-| `Production`  | [https://www.swikly.com](https://www.swikly.com) |
+| Sanbox | [https://sandbox.swikly.com](https://sandbox.swikly.com)  |
+| Production  | [https://www.swikly.com](https://www.swikly.com) |
 
-Once your account created, go to:  `**My Account** > **Developers**`. You will find your secret key in this section.
+Once your account created, go to:  **My Account** > **Developers**. You will find your secret key in this section.
 
 ## Checkout Root
 
