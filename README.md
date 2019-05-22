@@ -5,13 +5,13 @@ Swikly enables you to generate a transaction link for any transaction request ty
  - Complex transactions request of any combination.
 
 # Definitions
-- ## # Overview page
-- ## # Checkout page 
-- ## # End-User
+- ## Overview page
+- ## Checkout page 
+- ## End-User
 
 # Sandbox and production environments
-- ## # Sandbox
-- ## # Production 
+- ## Sandbox
+- ## Production 
 
 # Authentication
 
