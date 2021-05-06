@@ -10,6 +10,7 @@ Each transaction link you create, or generate within your application, has to be
 | amountPayment  | Set value or 0 if you don't use it |
 | cityTax  | Set value or leave it empty if you don't use it |
 | userId  | Swikly's account *userId* found at **My Account** > **Developers** |
+| endUserId | This value is used with **[One-click transactions](/Swikly-Link-Documentation/One-click-transactions)** Set value or leave it empty if you don't use it |
 | linkId  | linkId provided by Swikly or leave it empty if you don't use it |
 | freeText  | Set value or leave it empty if you don't use it |
 | Link Secret | Swikly's account *Link Secret* found at **My Account** > **Developers** |
