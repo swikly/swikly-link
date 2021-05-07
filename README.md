@@ -1,0 +1,1 @@
+**[Access documentation](https://github.com/swikly/swikly-link/wiki)**
